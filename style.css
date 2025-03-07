@@ -77,6 +77,8 @@ span{
     color: var(--yellow-color);
     border-bottom: 3px solid var(var(--primary-color));
 }
+
+  /* contact me button */
 .gradient-btn{
     font-size: 1.8rem;
     padding: 1rem 3rem;
@@ -349,7 +351,7 @@ footer {
     text-align: center;
   }
 
-  
+
   /* Responsive Design */
 @media (max-width: 1200px) {
     .header, section {
@@ -407,6 +409,10 @@ footer {
         right: 0px; 
         padding-left: 20px;
     }
+    .gradient-btn{
+        margin-right: 10px;
+    }
+    
     .home-text h1 {
         font-size: 6rem;
     }
