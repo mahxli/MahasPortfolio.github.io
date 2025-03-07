@@ -145,6 +145,7 @@ section{
 
 .about-img img {
     width: 32vw;
+    height: 40vw;
     box-shadow: 0 0 25px var(--secondary-color);
     border-radius: 8px; 
 }
